@@ -15,7 +15,7 @@ Slipstream is a standards-driven, utility-first SCSS library pased on [pollen](h
 
 ### What it looks like
 
-Slipstream's low-level variables can be used to build any design. They're easy to customise and extend, and they're globally responsive. They don't require preprocessors, class naming conventions, or any new non-standard syntax.
+Slipstream's low-level variables can be used to build any design. They're easy to customise and extend, and they're globally responsive. They don't require postprocessors (like postcss), class naming conventions, or any new non-standard syntax.
 
 ```css
 .button {
