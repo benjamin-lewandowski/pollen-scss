@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Slipstream is a standards-driven, utility-first SCSS library pased on [pollen](https://pollen.style) and inspired by [Tailwind](https://tailwindcss.com/). Its a collection of [SCSS variables](https://sass-lang.com/documentation/variables) that can be used anywhere to encourage consistency, maintainability, and rapid development.
+Slipstream is a standards-driven, utility-first SCSS library pased on [pollen](https://pollen.style) as well as [open-props](https://open-props.style) and is mainly inspired by [Tailwind](https://tailwindcss.com/). Its a collection of [SCSS variables](https://sass-lang.com/documentation/variables) that can be used anywhere to encourage consistency, maintainability, and rapid development.
 
 ### What it looks like
 
@@ -28,7 +28,3 @@ Slipstream's low-level variables can be used to build any design. They're easy t
   color: white;
 }
 ```
-
-## Documentation
-
-Read the documentation of the Base Project at **[pollen.style](https://www.pollen.style)**
